@@ -29,4 +29,3 @@ END:VCARD
         height: 250
     });
 });
-``
